@@ -1,0 +1,71 @@
+Credits to Joem for this keylist, you can use these numbers to set your autotele hotkeys.
+
+// KeyList =
+//
+// 1=Left mouse button
+// 2=Right mouse button
+// 4=Middle mouse button (three-button mouse)
+// 9=TAB key
+// 16=SHIFT key
+// 17=CTRL key
+// 18=ALT key
+// 19=pause key
+// 32=SPACEBAR
+// 33 PAGE UP key
+// 34 PAGE DOWN key
+// 35 END key
+// 36 HOME key
+// 45 INS key
+// 46 DEL key
+// 65=A key
+// 66=B key
+// 67=C key
+// 68=D key
+// 69=E key
+// 70=F key
+// 71=G key
+// 72=H key
+// 73=I key
+// 74=J key
+// 75=K key
+// 76=L key
+// 77=M key
+// 78=N key
+// 79=O key
+// 80=P key
+// 81=Q key
+// 82=R key
+// 83=S key
+// 84=T key
+// 85=U key
+// 86=V key
+// 87=W key
+// 88=X key
+// 89=Y key
+// 90=Z key
+// 96=Numeric keypad 0 key
+// 97=Numeric keypad 1 key
+// 98=Numeric keypad 2 key
+// 99=Numeric keypad 3 key
+// 100=Numeric keypad 4 key
+// 101=Numeric keypad 5 key
+// 102=Numeric keypad 6 key
+// 103=Numeric keypad 7 key
+// 104=Numeric keypad 8 key
+// 105=Numeric keypad 9 key
+// 106=Numeric Multiply *
+// 107=Numeric Plus Key +
+// 109=Numeric Minus Key -
+// 111=Numeric Divide Key /
+// 112=F1 key
+// 113=F2 key
+// 114=F3 key
+// 115=F4 key
+// 116=F5 key
+// 117=F6 key
+// 118=F7 key
+// 119=F8 key
+// 120=F9 key
+// 121=F10 key
+// 122=F11 key
+// 123=F12 key
